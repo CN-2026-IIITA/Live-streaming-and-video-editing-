@@ -83,9 +83,8 @@ http://localhost:3000
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of your UI here to make it more attractive*
+## 📸 Screenshots
+<img width="1521" height="856" alt="image" src="https://github.com/user-attachments/assets/63a4a185-d3e5-4154-824a-797184531559" />
 
 ---
 
@@ -123,13 +122,6 @@ Contributions are welcome!
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Ankit Kumar Maurya**
-
 ---
 
 ## ⭐ Support
